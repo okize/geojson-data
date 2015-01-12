@@ -1,0 +1,655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -85.808632, 33.485355 ]
+      },
+      "properties": {
+        "state": "Alabama",
+        "name": "Cheaha Mountain",
+        "elevation_in_feet": "2,407",
+        "elevation_in_meters": "734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -151.006347, 63.069042 ]
+      },
+      "properties": {
+        "state": "Alaska",
+        "name": "Denali",
+        "elevation_in_feet": "20,320",
+        "elevation_in_meters": "6,194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -111.677977, 35.346426 ]
+      },
+      "properties": {
+        "state": "Arizona",
+        "name": "Humphreys Peak",
+        "elevation_in_feet": "12,633",
+        "elevation_in_meters": "3,851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.644698, 35.167074 ]
+      },
+      "properties": {
+        "state": "Arkansas",
+        "name": "Mount Magazine (Signal Hill)",
+        "elevation_in_feet": "2,753",
+        "elevation_in_meters": "839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -118.29239, 36.57855 ]
+      },
+      "properties": {
+        "state": "California",
+        "name": "Mount Whitney",
+        "elevation_in_feet": "14,494",
+        "elevation_in_meters": "4,418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -106.445318, 39.117838 ]
+      },
+      "properties": {
+        "state": "Colorado",
+        "name": "Mount Elbert",
+        "elevation_in_feet": "14,433",
+        "elevation_in_meters": "4,399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.483042, 42.049633 ]
+      },
+      "properties": {
+        "state": "Connecticut",
+        "name": "Mount Frissell (South Slope)",
+        "elevation_in_feet": "2,380",
+        "elevation_in_meters": "725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -75.520592, 39.836476 ]
+      },
+      "properties": {
+        "state": "Delaware",
+        "name": "Ebright Azimuth",
+        "elevation_in_feet": "448",
+        "elevation_in_meters": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -86.281867, 30.987719 ]
+      },
+      "properties": {
+        "state": "Florida",
+        "name": "Lakewood (Britton Hill)",
+        "elevation_in_feet": "345",
+        "elevation_in_meters": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -83.811077, 34.874361 ]
+      },
+      "properties": {
+        "state": "Georgia",
+        "name": "Brasstown Bald",
+        "elevation_in_feet": "4,784",
+        "elevation_in_meters": "1,458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -155.468024, 19.820679 ]
+      },
+      "properties": {
+        "state": "Hawaii",
+        "name": "Mauna Kea",
+        "elevation_in_feet": "13,796",
+        "elevation_in_meters": "4,205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -113.781122, 44.137376 ]
+      },
+      "properties": {
+        "state": "Idaho",
+        "name": "Borah Peak",
+        "elevation_in_feet": "12,662",
+        "elevation_in_meters": "3,859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.239765, 42.504146 ]
+      },
+      "properties": {
+        "state": "Illinois",
+        "name": "Charles Mound",
+        "elevation_in_feet": "1,235",
+        "elevation_in_meters": "376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.850884, 40.000345 ]
+      },
+      "properties": {
+        "state": "Indiana",
+        "name": "Hoosier Hill",
+        "elevation_in_feet": "1,257",
+        "elevation_in_meters": "383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -95.708891, 43.460154 ]
+      },
+      "properties": {
+        "state": "Iowa",
+        "name": "Hawkeye Point",
+        "elevation_in_feet": "1,670",
+        "elevation_in_meters": "509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -102.037141, 39.021982 ]
+      },
+      "properties": {
+        "state": "Kansas",
+        "name": "Mount Sunflower",
+        "elevation_in_feet": "4,039",
+        "elevation_in_meters": "1,231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -82.893831, 36.914158 ]
+      },
+      "properties": {
+        "state": "Kentucky",
+        "name": "Black Mountain",
+        "elevation_in_feet": "4,145",
+        "elevation_in_meters": "1,263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -92.89669, 32.424856 ]
+      },
+      "properties": {
+        "state": "Louisiana",
+        "name": "Driskill Mountain",
+        "elevation_in_feet": "535",
+        "elevation_in_meters": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -68.921392, 45.904362 ]
+      },
+      "properties": {
+        "state": "Maine",
+        "name": "Katahdin (Baxter Peak)",
+        "elevation_in_feet": "5,267",
+        "elevation_in_meters": "1,605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -79.485528, 39.237398 ]
+      },
+      "properties": {
+        "state": "Maryland",
+        "name": "Backbone Mountain",
+        "elevation_in_feet": "3,360",
+        "elevation_in_meters": "1,024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.165916, 42.63726 ]
+      },
+      "properties": {
+        "state": "Massachusetts",
+        "name": "Mount Greylock",
+        "elevation_in_feet": "3,491",
+        "elevation_in_meters": "1,064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.155447, 46.755822 ]
+      },
+      "properties": {
+        "state": "Michigan",
+        "name": "Mount Arvon",
+        "elevation_in_feet": "1,979",
+        "elevation_in_meters": "603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.560572, 47.897446 ]
+      },
+      "properties": {
+        "state": "Minnesota",
+        "name": "Eagle Mountain",
+        "elevation_in_feet": "2,301",
+        "elevation_in_meters": "701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.241625, 34.787745 ]
+      },
+      "properties": {
+        "state": "Mississippi",
+        "name": "Woodall Mountain",
+        "elevation_in_feet": "806",
+        "elevation_in_meters": "246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.729144, 37.571301 ]
+      },
+      "properties": {
+        "state": "Missouri",
+        "name": "Taum Sauk",
+        "elevation_in_feet": "1,772",
+        "elevation_in_meters": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -109.807609, 45.163453 ]
+      },
+      "properties": {
+        "state": "Montana",
+        "name": "Granite Peak",
+        "elevation_in_feet": "12,799",
+        "elevation_in_meters": "3,901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -104.031264, 41.007235 ]
+      },
+      "properties": {
+        "state": "Nebraska",
+        "name": "Panorama Point",
+        "elevation_in_feet": "5,424",
+        "elevation_in_meters": "1,653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -118.35135, 37.84609 ]
+      },
+      "properties": {
+        "state": "Nevada",
+        "name": "Boundary Peak",
+        "elevation_in_feet": "13,143",
+        "elevation_in_meters": "4,006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -71.303444, 44.270464 ]
+      },
+      "properties": {
+        "state": "New Hampshire",
+        "name": "Mount Washington",
+        "elevation_in_feet": "6,288",
+        "elevation_in_meters": "1,917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -74.661562, 41.320948 ]
+      },
+      "properties": {
+        "state": "New Jersey",
+        "name": "High Point",
+        "elevation_in_feet": "1,803",
+        "elevation_in_meters": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -105.416907, 36.556784 ]
+      },
+      "properties": {
+        "state": "New Mexico",
+        "name": "Wheeler Peak",
+        "elevation_in_feet": "13,161",
+        "elevation_in_meters": "4,011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.923784, 44.112857 ]
+      },
+      "properties": {
+        "state": "New York",
+        "name": "Mount Marcy",
+        "elevation_in_feet": "5,344",
+        "elevation_in_meters": "1,629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -82.265152, 35.76497 ]
+      },
+      "properties": {
+        "state": "North Carolina",
+        "name": "Mount Mitchell",
+        "elevation_in_feet": "6,684",
+        "elevation_in_meters": "2,037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -103.302694, 46.386965 ]
+      },
+      "properties": {
+        "state": "North Dakota",
+        "name": "White Butte",
+        "elevation_in_feet": "3,506",
+        "elevation_in_meters": "1,069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -83.720089, 40.370328 ]
+      },
+      "properties": {
+        "state": "Ohio",
+        "name": "Campbell Hill",
+        "elevation_in_feet": "1,550",
+        "elevation_in_meters": "472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -102.997859, 36.931838 ]
+      },
+      "properties": {
+        "state": "Oklahoma",
+        "name": "Black Mesa",
+        "elevation_in_feet": "4,973",
+        "elevation_in_meters": "1,516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -121.695966, 45.373496 ]
+      },
+      "properties": {
+        "state": "Oregon",
+        "name": "Mount Hood",
+        "elevation_in_feet": "11,239",
+        "elevation_in_meters": "3,426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -79.176802, 39.786009 ]
+      },
+      "properties": {
+        "state": "Pennsylvania",
+        "name": "Mount Davis",
+        "elevation_in_feet": "3,213",
+        "elevation_in_meters": "979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -71.778896, 41.849603 ]
+      },
+      "properties": {
+        "state": "Rhode Island",
+        "name": "Jerimoth Hill",
+        "elevation_in_feet": "812",
+        "elevation_in_meters": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -82.777349, 35.065146 ]
+      },
+      "properties": {
+        "state": "South Carolina",
+        "name": "Sassafras Mountain",
+        "elevation_in_feet": "3,560",
+        "elevation_in_meters": "1,085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -103.531188, 43.865973 ]
+      },
+      "properties": {
+        "state": "South Dakota",
+        "name": "Harney Peak",
+        "elevation_in_feet": "7,242",
+        "elevation_in_meters": "2,207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -83.498601, 35.562919 ]
+      },
+      "properties": {
+        "state": "Tennessee",
+        "name": "Clingmans Dome",
+        "elevation_in_feet": "6,643",
+        "elevation_in_meters": "2,025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -104.860727, 31.891483 ]
+      },
+      "properties": {
+        "state": "Texas",
+        "name": "Guadalupe Peak",
+        "elevation_in_feet": "8,749",
+        "elevation_in_meters": "2,667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -110.372933, 40.776327 ]
+      },
+      "properties": {
+        "state": "Utah",
+        "name": "Kings Peak",
+        "elevation_in_feet": "13,528",
+        "elevation_in_meters": "4,123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -72.814366, 44.543822 ]
+      },
+      "properties": {
+        "state": "Vermont",
+        "name": "Mount Mansfield",
+        "elevation_in_feet": "4,393",
+        "elevation_in_meters": "1,339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -81.5449, 36.660052 ]
+      },
+      "properties": {
+        "state": "Virginia",
+        "name": "Mount Rogers",
+        "elevation_in_feet": "5,729",
+        "elevation_in_meters": "1,746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -121.760424, 46.852947 ]
+      },
+      "properties": {
+        "state": "Washington",
+        "name": "Mount Rainier (Columbia Crest)",
+        "elevation_in_feet": "14,411",
+        "elevation_in_meters": "4,392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -79.532993, 38.699756 ]
+      },
+      "properties": {
+        "state": "West Virginia",
+        "name": "Spruce Knob",
+        "elevation_in_feet": "4,863",
+        "elevation_in_meters": "1,482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.195394, 45.450762 ]
+      },
+      "properties": {
+        "state": "Wisconsin",
+        "name": "Timms Hill",
+        "elevation_in_feet": "1,951",
+        "elevation_in_meters": "595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -109.654292, 43.1844 ]
+      },
+      "properties": {
+        "state": "Wyoming",
+        "name": "Gannett Peak",
+        "elevation_in_feet": "13,804",
+        "elevation_in_meters": "4,207"
+      }
+    }
+  ]
+}
