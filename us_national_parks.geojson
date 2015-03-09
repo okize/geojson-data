@@ -1,0 +1,831 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.21,44.35]
+      },
+      "properties": {
+        "park_name": "Acadia",
+        "location": "Maine",
+        "date_established": "1919-02-26T05: 00: 00.000Z",
+        "area_in_acres": 47389.67,
+        "area_in_km": 191.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-170.68,-14.25]
+      },
+      "properties": {
+        "park_name": "American Samoa",
+        "location": "American Samoa",
+        "date_established": "1988-10-31T05: 00: 00.000Z",
+        "area_in_acres": 9000,
+        "area_in_km": 36.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.57,38.68]
+      },
+      "properties": {
+        "park_name": "Arches",
+        "location": "Utah",
+        "date_established": "1929-04-12T04: 00: 00.000Z",
+        "area_in_acres": 76518.98,
+        "area_in_km": 309.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.5,43.75]
+      },
+      "properties": {
+        "park_name": "Badlands",
+        "location": "South Dakota",
+        "date_established": "1978-11-10T05: 00: 00.000Z",
+        "area_in_acres": 242755.94,
+        "area_in_km": 982.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.25,29.25]
+      },
+      "properties": {
+        "park_name": "Big Bend",
+        "location": "Texas",
+        "date_established": "1944-06-12T04: 00: 00.000Z",
+        "area_in_acres": 801163.21,
+        "area_in_km": 3242.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.08,25.65]
+      },
+      "properties": {
+        "park_name": "Biscayne",
+        "location": "Florida",
+        "date_established": "1980-06-28T04: 00: 00.000Z",
+        "area_in_acres": 172924.07,
+        "area_in_km": 699.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.72,38.57]
+      },
+      "properties": {
+        "park_name": "Black Canyon of the Gunnison",
+        "location": "Colorado",
+        "date_established": "1999-10-21T04: 00: 00.000Z",
+        "area_in_acres": 32950.03,
+        "area_in_km": 133.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.18,37.57]
+      },
+      "properties": {
+        "park_name": "Bryce Canyon",
+        "location": "Utah",
+        "date_established": "1928-02-25T05: 00: 00.000Z",
+        "area_in_acres": 35835.08,
+        "area_in_km": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.93,38.2]
+      },
+      "properties": {
+        "park_name": "Canyonlands",
+        "location": "Utah",
+        "date_established": "1964-09-12T04: 00: 00.000Z",
+        "area_in_acres": 337597.83,
+        "area_in_km": 1366.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.17,38.2]
+      },
+      "properties": {
+        "park_name": "Capitol Reef",
+        "location": "Utah",
+        "date_established": "1971-12-18T05: 00: 00.000Z",
+        "area_in_acres": 241904.26,
+        "area_in_km": 979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.44,32.17]
+      },
+      "properties": {
+        "park_name": "Carlsbad Caverns",
+        "location": "New Mexico",
+        "date_established": "1930-05-14T04: 00: 00.000Z",
+        "area_in_acres": 46766.45,
+        "area_in_km": 189.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.42,34.01]
+      },
+      "properties": {
+        "park_name": "Channel Islands",
+        "location": "California",
+        "date_established": "1980-03-05T05: 00: 00.000Z",
+        "area_in_acres": 249561,
+        "area_in_km": 1009.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.78,33.78]
+      },
+      "properties": {
+        "park_name": "Congaree",
+        "location": "South Carolina",
+        "date_established": "2003-11-10T05: 00: 00.000Z",
+        "area_in_acres": 26545.86,
+        "area_in_km": 107.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.1,42.94]
+      },
+      "properties": {
+        "park_name": "Crater Lake",
+        "location": "Oregon",
+        "date_established": "1902-05-22T04: 00: 00.000Z",
+        "area_in_acres": 183224.05,
+        "area_in_km": 741.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.55,41.24]
+      },
+      "properties": {
+        "park_name": "Cuyahoga Valley",
+        "location": "Ohio",
+        "date_established": "2000-10-11T04: 00: 00.000Z",
+        "area_in_acres": 32860.73,
+        "area_in_km": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.82,36.24]
+      },
+      "properties": {
+        "park_name": "Death Valley",
+        "location": "California",
+        "date_established": "1994-10-31T05: 00: 00.000Z",
+        "area_in_acres": 3372401.96,
+        "area_in_km": 13647.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.5,63.33]
+      },
+      "properties": {
+        "park_name": "Denali",
+        "location": "Alaska",
+        "date_established": "1917-02-26T05: 00: 00.000Z",
+        "area_in_acres": 4740911.72,
+        "area_in_km": 19185.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.87,24.63]
+      },
+      "properties": {
+        "park_name": "Dry Tortugas",
+        "location": "Florida",
+        "date_established": "1992-10-26T05: 00: 00.000Z",
+        "area_in_acres": 64701.22,
+        "area_in_km": 261.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.93,25.32]
+      },
+      "properties": {
+        "park_name": "Everglades",
+        "location": "Florida",
+        "date_established": "1934-05-30T04: 00: 00.000Z",
+        "area_in_acres": 1508537.9,
+        "area_in_km": 6104.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-153.3,67.78]
+      },
+      "properties": {
+        "park_name": "Gates of the Arctic",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 7523897.74,
+        "area_in_km": 30448.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114,48.8]
+      },
+      "properties": {
+        "park_name": "Glacier",
+        "location": "Montana",
+        "date_established": "1910-05-11T04: 00: 00.000Z",
+        "area_in_acres": 1013572.41,
+        "area_in_km": 4101.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-137,58.5]
+      },
+      "properties": {
+        "park_name": "Glacier Bay",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 3224840.31,
+        "area_in_km": 13050.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.14,36.06]
+      },
+      "properties": {
+        "park_name": "Grand Canyon",
+        "location": "Arizona",
+        "date_established": "1919-02-26T05: 00: 00.000Z",
+        "area_in_acres": 1217403.32,
+        "area_in_km": 4926.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.8,43.73]
+      },
+      "properties": {
+        "park_name": "Grand Teton",
+        "location": "Wyoming",
+        "date_established": "1929-02-26T05: 00: 00.000Z",
+        "area_in_acres": 309994.66,
+        "area_in_km": 1254.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.3,38.98]
+      },
+      "properties": {
+        "park_name": "Great Basin",
+        "location": "Nevada",
+        "date_established": "1986-10-27T05: 00: 00.000Z",
+        "area_in_acres": 77180,
+        "area_in_km": 312.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.51,37.73]
+      },
+      "properties": {
+        "park_name": "Great Sand Dunes",
+        "location": "Colorado",
+        "date_established": "2004-09-13T04: 00: 00.000Z",
+        "area_in_acres": 42983.74,
+        "area_in_km": 173.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.53,35.68]
+      },
+      "properties": {
+        "park_name": "Great Smoky Mountains",
+        "location": "North Carolina",
+        "date_established": "1934-06-15T04: 00: 00.000Z",
+        "area_in_acres": 521490.13,
+        "area_in_km": 2110.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.87,31.92]
+      },
+      "properties": {
+        "park_name": "Guadalupe Mountains",
+        "location": "Texas",
+        "date_established": "1966-10-15T04: 00: 00.000Z",
+        "area_in_acres": 86415.97,
+        "area_in_km": 349.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.17,20.72]
+      },
+      "properties": {
+        "park_name": "Haleakalā",
+        "location": "Hawaii",
+        "date_established": "1916-08-01T04: 00: 00.000Z",
+        "area_in_acres": 29093.67,
+        "area_in_km": 117.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.2,19.38]
+      },
+      "properties": {
+        "park_name": "Hawaii Volcanoes",
+        "location": "Hawaii",
+        "date_established": "1916-08-01T04: 00: 00.000Z",
+        "area_in_acres": 323431.38,
+        "area_in_km": 1308.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.05,34.51]
+      },
+      "properties": {
+        "park_name": "Hot Springs",
+        "location": "Arkansas",
+        "date_established": "1921-03-04T05: 00: 00.000Z",
+        "area_in_acres": 5549.75,
+        "area_in_km": 22.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.55,48.1]
+      },
+      "properties": {
+        "park_name": "Isle Royale",
+        "location": "Michigan",
+        "date_established": "1940-04-03T04: 00: 00.000Z",
+        "area_in_acres": 571790.11,
+        "area_in_km": 2314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.9,33.79]
+      },
+      "properties": {
+        "park_name": "Joshua Tree",
+        "location": "California",
+        "date_established": "1994-10-31T05: 00: 00.000Z",
+        "area_in_acres": 789745.47,
+        "area_in_km": 3196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155,58.5]
+      },
+      "properties": {
+        "park_name": "Katmai",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 3674529.68,
+        "area_in_km": 14870.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.65,59.92]
+      },
+      "properties": {
+        "park_name": "Kenai Fjords",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 669982.99,
+        "area_in_km": 2711.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.55,36.8]
+      },
+      "properties": {
+        "park_name": "Kings Canyon",
+        "location": "California",
+        "date_established": "1940-03-04T05: 00: 00.000Z",
+        "area_in_acres": 461901.2,
+        "area_in_km": 1869.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-159.28,67.55]
+      },
+      "properties": {
+        "park_name": "Kobuk Valley",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 1750716.5,
+        "area_in_km": 7084.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-153.42,60.97]
+      },
+      "properties": {
+        "park_name": "Lake Clark",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 2619733.21,
+        "area_in_km": 10601.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.51,40.49]
+      },
+      "properties": {
+        "park_name": "Lassen Volcanic",
+        "location": "California",
+        "date_established": "1916-08-09T04: 00: 00.000Z",
+        "area_in_acres": 106372.36,
+        "area_in_km": 430.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.1,37.18]
+      },
+      "properties": {
+        "park_name": "Mammoth Cave",
+        "location": "Kentucky",
+        "date_established": "1941-07-01T04: 00: 00.000Z",
+        "area_in_acres": 52830.19,
+        "area_in_km": 213.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.49,37.18]
+      },
+      "properties": {
+        "park_name": "Mesa Verde",
+        "location": "Colorado",
+        "date_established": "1906-06-29T04: 00: 00.000Z",
+        "area_in_acres": 52121.93,
+        "area_in_km": 210.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.75,46.85]
+      },
+      "properties": {
+        "park_name": "Mount Rainier",
+        "location": "Washington",
+        "date_established": "1899-03-02T05: 00: 00.000Z",
+        "area_in_acres": 235625,
+        "area_in_km": 953.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.2,48.7]
+      },
+      "properties": {
+        "park_name": "North Cascades",
+        "location": "Washington",
+        "date_established": "1968-10-02T04: 00: 00.000Z",
+        "area_in_acres": 504780.94,
+        "area_in_km": 2042.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.5,47.97]
+      },
+      "properties": {
+        "park_name": "Olympic",
+        "location": "Washington",
+        "date_established": "1938-06-29T04: 00: 00.000Z",
+        "area_in_acres": 922650.86,
+        "area_in_km": 3733.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.78,35.07]
+      },
+      "properties": {
+        "park_name": "Petrified Forest",
+        "location": "Arizona",
+        "date_established": "1962-12-09T05: 00: 00.000Z",
+        "area_in_acres": 93532.57,
+        "area_in_km": 378.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.16,36.48]
+      },
+      "properties": {
+        "park_name": "Pinnacles",
+        "location": "California",
+        "date_established": "2013-01-10T05: 00: 00.000Z",
+        "area_in_acres": 26605.73,
+        "area_in_km": 107.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-124,41.3]
+      },
+      "properties": {
+        "park_name": "Redwood",
+        "location": "California",
+        "date_established": "1968-10-02T04: 00: 00.000Z",
+        "area_in_acres": 112512.05,
+        "area_in_km": 455.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.58,40.4]
+      },
+      "properties": {
+        "park_name": "Rocky Mountain",
+        "location": "Colorado",
+        "date_established": "1915-01-26T05: 00: 00.000Z",
+        "area_in_acres": 265828.41,
+        "area_in_km": 1075.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.5,32.25]
+      },
+      "properties": {
+        "park_name": "Saguaro",
+        "location": "Arizona",
+        "date_established": "1994-10-14T04: 00: 00.000Z",
+        "area_in_acres": 91439.71,
+        "area_in_km": 370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.68,36.43]
+      },
+      "properties": {
+        "park_name": "Sequoia",
+        "location": "California",
+        "date_established": "1890-09-25T04: 00: 00.000Z",
+        "area_in_acres": 404051.17,
+        "area_in_km": 1635.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.35,38.53]
+      },
+      "properties": {
+        "park_name": "Shenandoah",
+        "location": "Virginia",
+        "date_established": "1926-05-22T04: 00: 00.000Z",
+        "area_in_acres": 199045.23,
+        "area_in_km": 805.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.45,46.97]
+      },
+      "properties": {
+        "park_name": "Theodore Roosevelt",
+        "location": "North Dakota",
+        "date_established": "1978-11-10T05: 00: 00.000Z",
+        "area_in_acres": 70446.89,
+        "area_in_km": 285.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.73,18.33]
+      },
+      "properties": {
+        "park_name": "Virgin Islands",
+        "location": "United States Virgin Islands",
+        "date_established": "1956-08-02T04: 00: 00.000Z",
+        "area_in_acres": 14688.87,
+        "area_in_km": 59.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.88,48.5]
+      },
+      "properties": {
+        "park_name": "Voyageurs",
+        "location": "Minnesota",
+        "date_established": "1971-01-08T05: 00: 00.000Z",
+        "area_in_acres": 218200.17,
+        "area_in_km": 883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.48,43.57]
+      },
+      "properties": {
+        "park_name": "Wind Cave",
+        "location": "South Dakota",
+        "date_established": "1903-01-09T05: 00: 00.000Z",
+        "area_in_acres": 28295.03,
+        "area_in_km": 114.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-142,61]
+      },
+      "properties": {
+        "park_name": "Wrangell –St. Elias",
+        "location": "Alaska",
+        "date_established": "1980-12-02T05: 00: 00.000Z",
+        "area_in_acres": 8323147.59,
+        "area_in_km": 33682.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.5,44.6]
+      },
+      "properties": {
+        "park_name": "Yellowstone",
+        "location": "Wyoming",
+        "date_established": "1872-03-01T05: 00: 00.000Z",
+        "area_in_acres": 2219790.71,
+        "area_in_km": 8983.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.5,37.83]
+      },
+      "properties": {
+        "park_name": "Yosemite",
+        "location": "California",
+        "date_established": "1890-10-01T04: 00: 00.000Z",
+        "area_in_acres": 761266.19,
+        "area_in_km": 3080.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.05,37.3]
+      },
+      "properties": {
+        "park_name": "Zion",
+        "location": "Utah",
+        "date_established": "1919-11-19T05: 00: 00.000Z",
+        "area_in_acres": 146597.6,
+        "area_in_km": 593.3
+      }
+    }
+  ]
+}
